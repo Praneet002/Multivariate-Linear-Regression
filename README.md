@@ -22,7 +22,7 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ~~~
-```
+
 #Name:Praneet.S
 #Ref. No:21500603
 
@@ -43,13 +43,10 @@ print('Intercept:', regr.intercept_)
 predictedCO2=regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume:',predictedCO2)
 
-
-
-
-
-```
 ~~~
 ## Output:
+![hu](Multivariate Linear Regression.jpg)
+
 
 ### Insert your output
 
