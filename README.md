@@ -21,8 +21,8 @@ To write a python program to implement multivariate linear regression and predic
 <br>Print the parameters of the linear function.
 
 ## Program:
-```
 ~~~
+```
 import pandas as pd
 from sklearn import linear_model
 
